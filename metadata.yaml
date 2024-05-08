@@ -1,11 +1,16 @@
 _repo: Naisten-kasvatuksesta-b-Havaintoja-ja-mietteita_73501
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hagman, Lucina
     gutenberg_agent_id: '57100'
     url: http://www.gutenberg.org/2009/agents/57100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73501#Naisten-kasvatuksesta-b-Havaintoja-ja-mietteita
 gutenberg_issued: '2024-04-30'
 gutenberg_type: Text
 identifiers:
